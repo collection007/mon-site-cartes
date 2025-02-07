@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mon-site-cartes/static/css/main.36d5825f.css",
+    "main.js": "/mon-site-cartes/static/js/main.292b924c.js",
+    "static/js/453.013b863f.chunk.js": "/mon-site-cartes/static/js/453.013b863f.chunk.js",
+    "index.html": "/mon-site-cartes/index.html",
+    "main.36d5825f.css.map": "/mon-site-cartes/static/css/main.36d5825f.css.map",
+    "main.292b924c.js.map": "/mon-site-cartes/static/js/main.292b924c.js.map",
+    "453.013b863f.chunk.js.map": "/mon-site-cartes/static/js/453.013b863f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d5825f.css",
+    "static/js/main.292b924c.js"
+  ]
+}
