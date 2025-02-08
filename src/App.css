@@ -19,3 +19,54 @@ h1 {
   padding: 20px;
   justify-content: center;
 }
+/* Styles généraux */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* Conteneur principal */
+.app-container {
+  text-align: center;
+}
+
+/* En-tête avec fond rouge */
+.header {
+  background-color: #d32f2f;
+  color: white;
+  padding: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+/* Section principale */
+main {
+  padding: 20px;
+}
+
+/* Cartes avec couleurs rouge et bleu */
+.marketplace .card {
+  background: white;
+  border: 2px solid #1565c0;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* Boutons bleus */
+button {
+  background-color: #1565c0;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #0d47a1;
+}
